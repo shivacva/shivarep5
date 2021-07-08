@@ -2,6 +2,6 @@
 <test name="Learning Jenkins">
 <classes>
  <class name="session_2.jenkins_demo"></class>
-<classes>
+</classes>
 </test>
 </suite>
